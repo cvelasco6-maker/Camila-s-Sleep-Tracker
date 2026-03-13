@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Camila-s-Sleep-Tracker/static/css/main.eb95e084.css",
-    "main.js": "/Camila-s-Sleep-Tracker/static/js/main.a7124d43.js",
-    "index.html": "/Camila-s-Sleep-Tracker/index.html",
-    "main.eb95e084.css.map": "/Camila-s-Sleep-Tracker/static/css/main.eb95e084.css.map",
-    "main.a7124d43.js.map": "/Camila-s-Sleep-Tracker/static/js/main.a7124d43.js.map"
+    "main.css": "/static/css/main.7395dcbc.css",
+    "main.js": "/static/js/main.7118f9ca.js",
+    "index.html": "/index.html",
+    "main.7395dcbc.css.map": "/static/css/main.7395dcbc.css.map",
+    "main.7118f9ca.js.map": "/static/js/main.7118f9ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb95e084.css",
-    "static/js/main.a7124d43.js"
+    "static/css/main.7395dcbc.css",
+    "static/js/main.7118f9ca.js"
   ]
 }
