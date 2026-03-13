@@ -1,0 +1,8 @@
+{
+  "short_name": "Camila Sleep",
+  "name": "Camila's Sleep Tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f0a1e",
+  "background_color": "#0f0a1e"
+}
